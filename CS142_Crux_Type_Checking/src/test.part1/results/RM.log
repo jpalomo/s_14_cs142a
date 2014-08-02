@@ -1,0 +1,2607 @@
+The Master DB deserialized failed.
+initCurrentDB
+Deserilize Table  = Reservaction, sLoc = data/Reservaction-1.rms
+Deserilize Table  = Car, sLoc = data/Car-1.rms
+Deserilize Table  = Flight, sLoc = data/Flight-1.rms
+Deserilize Table  = Hotel, sLoc = data/Hotel-1.rms
+RM not bound:java.rmi.ConnectException: Connection refused to host: apple.ics.uci.edu; nested exception is: 
+	java.net.ConnectException: Connection refused
+Deserilize Table  = Hotel, sLoc = data/Hotel-1.rms
+Deserilize Table  = Car, sLoc = data/Car-1.rms
+Deserilize Table  = Flight, sLoc = data/Flight-1.rms
+Deserilize Table  = Reservaction, sLoc = data/Reservaction-1.rms
+RM not bound:java.rmi.ConnectException: Connection refused to host: apple.ics.uci.edu; nested exception is: 
+	java.net.ConnectException: Connection refused
+Deserilize Table  = Hotel, sLoc = data/Hotel-1.rms
+Deserilize Table  = Car, sLoc = data/Car-1.rms
+Deserilize Table  = Flight, sLoc = data/Flight-1.rms
+Deserilize Table  = Reservaction, sLoc = data/Reservaction-1.rms
+RM not bound:java.rmi.ConnectException: Connection refused to host: apple.ics.uci.edu; nested exception is: 
+	java.net.ConnectException: Connection refused
+Deserilize Table  = Hotel, sLoc = data/Hotel-1.rms
+Deserilize Table  = Car, sLoc = data/Car-1.rms
+Deserilize Table  = Flight, sLoc = data/Flight-1.rms
+Deserilize Table  = Reservaction, sLoc = data/Reservaction-1.rms
+RM not bound:java.rmi.ServerException: RemoteException occurred in server thread; nested exception is: 
+	java.rmi.UnmarshalException: error unmarshalling arguments; nested exception is: 
+	java.lang.ClassNotFoundException: transaction.ResourceManagerImpl_Stub
+RM bound
+RM bound
+Committing
+RM bound
+RM bound
+RM bound
+Committing
+RM bound
+Committing
+RM bound
+Committing
+RM bound
+RM bound
+Committing
+RM bound
+RM bound
+Committing
+RM bound
+RM bound
+RM bound
+Committing
+RM bound
+Committing
+RM bound
+Committing
+RM bound
+RM bound
+Committing
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 0 updates.
+after updates
+before deletes
+Transaction has 0 deletes.
+after deletes
+RM bound
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 5 updates.
+after updates
+before deletes
+Transaction has 5 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 0 updates.
+after updates
+before deletes
+Transaction has 0 deletes.
+after deletes
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 3
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 0 updates.
+after updates
+before deletes
+Transaction has 0 deletes.
+after deletes
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+RM bound
+RM bound
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Want WRITE, someone has READ or WRITE
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 0 updates.
+after updates
+before deletes
+Transaction has 0 deletes.
+after deletes
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Want READ, someone has WRITE
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Want WRITE, someone has READ or WRITE
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Want READ, someone has WRITE
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Want READ, someone has WRITE
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Want WRITE, someone has READ or WRITE
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 0 updates.
+after updates
+before deletes
+Transaction has 0 deletes.
+after deletes
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Want READ, someone has WRITE
+Committing xid: 3
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Want WRITE, someone has READ or WRITE
+Committing xid: 3
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 0 updates.
+after updates
+before deletes
+Transaction has 0 deletes.
+after deletes
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Want WRITE, someone has READ or WRITE
+Committing xid: 3
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 0 updates.
+after updates
+before deletes
+Transaction has 0 deletes.
+after deletes
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Want READ, someone has WRITE
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 3
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+RM bound
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+RM bound
+RM bound
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+Die before pointer switch now executing.
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+Die before pointer switch now executing.
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+Die before pointer switch now executing.
+RM bound
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+Die after pointer switch now executing.
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+Die after pointer switch now executing.
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+Die after pointer switch now executing.
+RM bound
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 0 updates.
+after updates
+before deletes
+Transaction has 0 deletes.
+after deletes
+RM bound
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 5 updates.
+after updates
+before deletes
+Transaction has 5 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 0 updates.
+after updates
+before deletes
+Transaction has 0 deletes.
+after deletes
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 3
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 0 updates.
+after updates
+before deletes
+Transaction has 0 deletes.
+after deletes
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+RM bound
+RM bound
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Want WRITE, someone has READ or WRITE
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 0 updates.
+after updates
+before deletes
+Transaction has 0 deletes.
+after deletes
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Want READ, someone has WRITE
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Want WRITE, someone has READ or WRITE
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Want READ, someone has WRITE
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Want READ, someone has WRITE
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Want WRITE, someone has READ or WRITE
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 0 updates.
+after updates
+before deletes
+Transaction has 0 deletes.
+after deletes
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Want READ, someone has WRITE
+Committing xid: 3
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Want WRITE, someone has READ or WRITE
+Committing xid: 3
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 0 updates.
+after updates
+before deletes
+Transaction has 0 deletes.
+after deletes
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Want WRITE, someone has READ or WRITE
+Committing xid: 3
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 0 updates.
+after updates
+before deletes
+Transaction has 0 deletes.
+after deletes
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 2 updates.
+after updates
+before deletes
+Transaction has 2 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Want READ, someone has WRITE
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 3
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+RM bound
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+RM bound
+RM bound
+RM bound
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+Die before pointer switch now executing.
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+Die before pointer switch now executing.
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+Die before pointer switch now executing.
+RM bound
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+Die after pointer switch now executing.
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 3 updates.
+after updates
+before deletes
+Transaction has 3 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+Die after pointer switch now executing.
+RM bound
+RM bound
+Committing xid: 1
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 4 updates.
+after updates
+before deletes
+Transaction has 4 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+end: commit function
+Committing xid: 2
+begin: commit function
+begin: flights copy
+end: flights copy
+begin: customer copy
+end: customer copy
+begin: cars copy
+end: cars copy
+begin: rooms copy
+end: rooms copy
+before updates
+Transaction has 1 updates.
+after updates
+before deletes
+Transaction has 1 deletes.
+after deletes
+begin: writing tables to disk.
+end: writing tables to disk.
+Die after pointer switch now executing.
+RM bound
